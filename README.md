@@ -66,7 +66,6 @@ portfolio-v2/
 ├── frontend/           # Portfolio UI (React + Vite)
 ├── backend/            # API & Business Logic (Express + Node)
 ├── cms-frontend/       # Admin Control Panel (React + Vite)
-├── master_plan.md      # Architectural roadmap
 └── README.md           # Project documentation
 ```
 
